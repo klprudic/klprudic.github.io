@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am an Assistant Professor in the School of Natural Resources and the Environment where I study where pollinators are, what they are doing, and how we can help them in a rapidly changing world using both community and data science techniques. 
+I am an Assistant Professor in the [School of Natural Resources and the Environment](https://snre.arizona.edu/people/kathleen-prudic) where I study where pollinators are, what they are doing, and how we can help them in a rapidly changing world using both community and data science techniques. 
 
 I am a collaborator on [eButterfly](https://www.e-butterfly.org), an online community science platform that harnesses the observations of thousands of butterfly enthusiasts across the globe to understand how and when butterflies and other pollinators react to environmental changes. 
 
